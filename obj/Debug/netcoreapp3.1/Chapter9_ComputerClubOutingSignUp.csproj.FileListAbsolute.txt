@@ -1,0 +1,15 @@
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\bin\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.exe
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\bin\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.deps.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\bin\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.runtimeconfig.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\bin\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.runtimeconfig.dev.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\bin\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\bin\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\obj\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\obj\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.Form1.resources
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\obj\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.csproj.GenerateResource.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\obj\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\obj\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.AssemblyInfo.cs
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\obj\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\obj\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\obj\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter9_ComputerClubOutingSignUp\obj\Debug\netcoreapp3.1\Chapter9_ComputerClubOutingSignUp.genruntimeconfig.cache
