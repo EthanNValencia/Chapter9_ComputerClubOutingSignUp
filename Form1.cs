@@ -23,11 +23,30 @@ namespace Chapter9_ComputerClubOutingSignUp
             // this.txtBoxResult.Text = this.lstBoxEvents.SelectedItem.ToString(); // For the single select mode. 
             // this.txtBoxResult.Text = this.lstBoxEvents.Text; // For the single select mode. 
             string result = " ";
-            foreach(string activity in lstBoxEvents.SelectedItems)
+            foreach(string activity in lstBoxEvents.SelectedItems) // Using SelectedItems
             {
+                /*
+                 * It is worth noting that to select multiple entries from a listbox it is necessary 
+                 * to use .SelectedItems, .SelectedIndices, or .Items
+                 * .SelectedIndices is a collection of indexes from 0-n. 
+                 * If a listbox only allows for one selection then the no plural accessors can be used. 
+                 * If a listbox only allows for one, then Text can be used too.
+                 */
                 result += activity + " ";
             }
             this.txtBoxResult.Text = result;
+
+            this.txtBoxResult.Clear(); // Clears the box so that the second foreach example can populate the textbox. 
+
+            foreach(int i in lstBoxEvents.SelectedIndices) // Using SelectedIndices 
+            {
+                /*
+                 * The result of this foreach is pretty much the same as the above example, but it traverses
+                 * the selected items in a different way. It uses the index of the selected items. 
+                 */
+                this.txtBoxResult.Text += this.lstBoxEvents.Items[i] + " ";
+            }
+
         }
 
         private void btnAddItem_Click(object sender, EventArgs e)
